@@ -33,7 +33,7 @@ You can view the fully optimized Snake Game here:
 
 ## Live URL: https://game.yusufyucel.com (live for a while)
 
-! [Live Website Screenshot]( game-web/game.png )
+![Live Website Screenshot](game-web/game.png)
 
 ## Key Technical Achievements
 

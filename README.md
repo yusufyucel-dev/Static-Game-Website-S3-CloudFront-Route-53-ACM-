@@ -3,7 +3,7 @@ This project demonstrates a highly secure, high-performance solution for hosting
 
 This setup showcases expertise in leveraging four critical AWS services for modern web hosting and optimization.
 
-⚙️ Architecture & Services
+## Architecture & Services
 
 The architecture focuses on security and speed, ensuring the origin content is never directly exposed to the public internet.
 
@@ -31,11 +31,11 @@ The architecture focuses on security and speed, ensuring the origin content is n
 
 You can view the fully optimized Snake Game here:
 
-🔗 Live URL: https://game.yusufyucel.com (live for a while)
+## Live URL: https://game.yusufyucel.com (live for a while)
 
 ! [Live Website Screenshot](game-web/game.png)
 
-💡 Key Technical Achievements
+## Key Technical Achievements
 
 This project required solving complex integration and security challenges:
 
@@ -47,7 +47,7 @@ This project required solving complex integration and security challenges:
 
     403 Error Handling: Implemented a Custom Error Page in CloudFront to correctly handle 403 Forbidden responses from S3, ensuring that the index.html file is loaded correctly when users access the root path (/) of the domain.
 
-🛠️ Local Files
+## Local Files
 
     index.html: The game's main structure and display.
 

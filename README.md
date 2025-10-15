@@ -27,6 +27,8 @@ The architecture focuses on security and speed, ensuring the origin content is n
 
         Role: Provides a free, managed Wildcard SSL/TLS certificate (*.yusufyucel.com) to enable secure HTTPS access on the custom domain.
 
+![Architecture Diagram](game-web/architecture.png)
+
 🌐 Live Demo
 
 You can view the fully optimized Snake Game here:
